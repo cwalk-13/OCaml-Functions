@@ -1,0 +1,12 @@
+Student Name: Charles Walker
+Graded By: Ben Comer
+Assignment: hw8
+
+Answered Questions? 13/20 pts (missing q10, plus -5 points for compilation error on hw8a.ml. Got 'Exception: Failure "hd". Likely
+forgot to guard against empty lists.)
+
+Tests? 10/10 pts (tests' breadth covers the otherwise missing q10 ones imo)
+
+File Structure? 5/5 pts
+
+FINAL GRADE: 28/35 pts
